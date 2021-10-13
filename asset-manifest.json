@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d40e4ee9.chunk.css",
+    "main.js": "/static/js/main.647b330a.chunk.js",
+    "main.js.map": "/static/js/main.647b330a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.20a05794.js",
+    "runtime-main.js.map": "/static/js/runtime-main.20a05794.js.map",
+    "static/js/2.cbb86d53.chunk.js": "/static/js/2.cbb86d53.chunk.js",
+    "static/js/2.cbb86d53.chunk.js.map": "/static/js/2.cbb86d53.chunk.js.map",
+    "static/js/3.f1923c1f.chunk.js": "/static/js/3.f1923c1f.chunk.js",
+    "static/js/3.f1923c1f.chunk.js.map": "/static/js/3.f1923c1f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d40e4ee9.chunk.css.map": "/static/css/main.d40e4ee9.chunk.css.map",
+    "static/js/2.cbb86d53.chunk.js.LICENSE.txt": "/static/js/2.cbb86d53.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/static/media/banner-recruit-web.81cf3707.8539a117.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20a05794.js",
+    "static/js/2.cbb86d53.chunk.js",
+    "static/css/main.d40e4ee9.chunk.css",
+    "static/js/main.647b330a.chunk.js"
+  ]
+}
